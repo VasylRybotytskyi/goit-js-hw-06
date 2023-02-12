@@ -12,3 +12,4 @@ const categoriesArray = [...totalCategories]
 
 
 
+  
